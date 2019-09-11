@@ -1,0 +1,7 @@
+C:\Users\tanne\Desktop\C# Drills\TTAdrill2\TTAdrill2\obj\Debug\TTAdrill2.csprojAssemblyReference.cache
+C:\Users\tanne\Desktop\C# Drills\TTAdrill2\TTAdrill2\obj\Debug\TTAdrill2.csproj.CoreCompileInputs.cache
+C:\Users\tanne\Desktop\C# Drills\TTAdrill2\TTAdrill2\bin\Debug\TTAdrill2.exe.config
+C:\Users\tanne\Desktop\C# Drills\TTAdrill2\TTAdrill2\bin\Debug\TTAdrill2.exe
+C:\Users\tanne\Desktop\C# Drills\TTAdrill2\TTAdrill2\bin\Debug\TTAdrill2.pdb
+C:\Users\tanne\Desktop\C# Drills\TTAdrill2\TTAdrill2\obj\Debug\TTAdrill2.exe
+C:\Users\tanne\Desktop\C# Drills\TTAdrill2\TTAdrill2\obj\Debug\TTAdrill2.pdb
