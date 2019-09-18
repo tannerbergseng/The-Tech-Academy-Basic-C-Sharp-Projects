@@ -1,0 +1,7 @@
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill6\TTA_Drill6\bin\Debug\TTA_Drill6.exe.config
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill6\TTA_Drill6\bin\Debug\TTA_Drill6.exe
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill6\TTA_Drill6\bin\Debug\TTA_Drill6.pdb
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill6\TTA_Drill6\obj\Debug\TTA_Drill6.csprojAssemblyReference.cache
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill6\TTA_Drill6\obj\Debug\TTA_Drill6.csproj.CoreCompileInputs.cache
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill6\TTA_Drill6\obj\Debug\TTA_Drill6.exe
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill6\TTA_Drill6\obj\Debug\TTA_Drill6.pdb
