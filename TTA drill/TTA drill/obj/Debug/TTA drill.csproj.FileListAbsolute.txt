@@ -1,0 +1,6 @@
+C:\Users\tanne\Desktop\C# Drills\TTA drill\TTA drill\bin\Debug\TTA drill.exe.config
+C:\Users\tanne\Desktop\C# Drills\TTA drill\TTA drill\bin\Debug\TTA drill.exe
+C:\Users\tanne\Desktop\C# Drills\TTA drill\TTA drill\bin\Debug\TTA drill.pdb
+C:\Users\tanne\Desktop\C# Drills\TTA drill\TTA drill\obj\Debug\TTA drill.csproj.CoreCompileInputs.cache
+C:\Users\tanne\Desktop\C# Drills\TTA drill\TTA drill\obj\Debug\TTA drill.exe
+C:\Users\tanne\Desktop\C# Drills\TTA drill\TTA drill\obj\Debug\TTA drill.pdb
