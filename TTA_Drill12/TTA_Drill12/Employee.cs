@@ -11,7 +11,7 @@ namespace TTA_Drill12
         public double payRate;
         public double hoursWorked;
 
-        static void Employee1(double payRate, double hoursWorked)
+        static void Employee(double payRate, double hoursWorked)
         {
             double weeklyEarning = payRate * hoursWorked;
         }
