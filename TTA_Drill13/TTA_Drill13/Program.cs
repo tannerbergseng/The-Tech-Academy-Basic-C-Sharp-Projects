@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TTA_Drill13
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Type in an integer and I will do a math");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            Math math = new Math(num1, num2);
+
+            Console.WriteLine("Now put in some numbers with decimals.");
+            double num3 = Convert.ToDouble(Console.ReadLine());
+            double num4 = Convert.ToDouble(Console.ReadLine());
+            Math math1 = new Math(num3, num4);
+
+            Console.WriteLine("Now add a couple more integers");
+            string num5 = Console.ReadLine();
+            string num6 = Console.ReadLine();
+            Math math2 = new Math(num5, num6);
+
+        }
+    }
+}
