@@ -1,7 +1,0 @@
-C:\Users\tanne\Desktop\C# Drills\TTA_Drill15\TTA_Drill15\bin\Debug\TTA_Drill15.exe.config
-C:\Users\tanne\Desktop\C# Drills\TTA_Drill15\TTA_Drill15\bin\Debug\TTA_Drill15.exe
-C:\Users\tanne\Desktop\C# Drills\TTA_Drill15\TTA_Drill15\bin\Debug\TTA_Drill15.pdb
-C:\Users\tanne\Desktop\C# Drills\TTA_Drill15\TTA_Drill15\obj\Debug\TTA_Drill15.csprojAssemblyReference.cache
-C:\Users\tanne\Desktop\C# Drills\TTA_Drill15\TTA_Drill15\obj\Debug\TTA_Drill15.csproj.CoreCompileInputs.cache
-C:\Users\tanne\Desktop\C# Drills\TTA_Drill15\TTA_Drill15\obj\Debug\TTA_Drill15.exe
-C:\Users\tanne\Desktop\C# Drills\TTA_Drill15\TTA_Drill15\obj\Debug\TTA_Drill15.pdb
