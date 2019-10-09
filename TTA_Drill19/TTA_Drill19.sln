@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTA_Drill19", "TTA_Drill19\TTA_Drill19.csproj", "{B0DBA1A6-18CA-43F4-9BB8-5B879BA0F981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DBA1A6-18CA-43F4-9BB8-5B879BA0F981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DBA1A6-18CA-43F4-9BB8-5B879BA0F981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DBA1A6-18CA-43F4-9BB8-5B879BA0F981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DBA1A6-18CA-43F4-9BB8-5B879BA0F981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4C1A0A-5FE5-4209-9ED8-4AA9DC14B946}
+	EndGlobalSection
+EndGlobal

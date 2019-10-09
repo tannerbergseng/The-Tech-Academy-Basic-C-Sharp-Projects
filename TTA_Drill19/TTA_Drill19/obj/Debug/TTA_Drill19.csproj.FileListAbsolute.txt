@@ -1,0 +1,7 @@
+C:\Users\tanne\source\repos\TTA_Drill19\TTA_Drill19\bin\Debug\TTA_Drill19.exe.config
+C:\Users\tanne\source\repos\TTA_Drill19\TTA_Drill19\bin\Debug\TTA_Drill19.exe
+C:\Users\tanne\source\repos\TTA_Drill19\TTA_Drill19\bin\Debug\TTA_Drill19.pdb
+C:\Users\tanne\source\repos\TTA_Drill19\TTA_Drill19\obj\Debug\TTA_Drill19.csprojAssemblyReference.cache
+C:\Users\tanne\source\repos\TTA_Drill19\TTA_Drill19\obj\Debug\TTA_Drill19.csproj.CoreCompileInputs.cache
+C:\Users\tanne\source\repos\TTA_Drill19\TTA_Drill19\obj\Debug\TTA_Drill19.exe
+C:\Users\tanne\source\repos\TTA_Drill19\TTA_Drill19\obj\Debug\TTA_Drill19.pdb
