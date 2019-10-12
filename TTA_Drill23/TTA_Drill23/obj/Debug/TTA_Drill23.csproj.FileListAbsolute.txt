@@ -1,0 +1,7 @@
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill23\TTA_Drill23\bin\Debug\TTA_Drill23.exe.config
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill23\TTA_Drill23\bin\Debug\TTA_Drill23.exe
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill23\TTA_Drill23\bin\Debug\TTA_Drill23.pdb
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill23\TTA_Drill23\obj\Debug\TTA_Drill23.csprojAssemblyReference.cache
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill23\TTA_Drill23\obj\Debug\TTA_Drill23.csproj.CoreCompileInputs.cache
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill23\TTA_Drill23\obj\Debug\TTA_Drill23.exe
+C:\Users\tanne\Desktop\C# Drills\TTA_Drill23\TTA_Drill23\obj\Debug\TTA_Drill23.pdb
